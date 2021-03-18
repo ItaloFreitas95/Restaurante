@@ -9,4 +9,4 @@ Endereço varchar(50) not null,
 Bairro varchar(30) not null,
 Telefone char(16) not null,
 Data_Admissão date not null 
-)
+);
